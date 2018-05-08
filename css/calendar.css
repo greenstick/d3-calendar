@@ -1,0 +1,10 @@
+body {
+    background-color: rgba(18, 4, 27, 1.0);
+}
+.calendar {
+    display: block;
+    margin: 0 auto;
+}
+.calendar .arc {
+    cursor: pointer;
+}
